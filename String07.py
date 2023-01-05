@@ -6,5 +6,5 @@ def main(s):
     Returns:
         bool: answer
     """
-    a=s.isalpha
+    a=s.isalpha()
     return a
