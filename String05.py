@@ -7,4 +7,4 @@ def main(s):
         str: answer
     """
     a=s.capitalize()
-    return
+    return a
